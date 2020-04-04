@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Email</string>
+
+    <string name="signup">SignUp</string>
+    <string name="create_account">Create Account</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="enter_your_email_id">Enter your Email ID</string>
+
+    <string name="facebook_app_id">519528208989172</string>
+    <string name="fb_login_protocol_scheme">fb519528208989172</string>
+    <string name="signin">Signin</string>
+
+</resources>
